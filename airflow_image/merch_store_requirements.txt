@@ -1,0 +1,13 @@
+pandas
+pyarrow
+pandas-gbq
+numpy
+psycopg2-binary
+pyodbc
+sqlalchemy
+google-cloud-bigquery
+google-cloud-storage
+google-auth
+gcsfs
+python-dotenv
+
