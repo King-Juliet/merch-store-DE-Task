@@ -1,5 +1,12 @@
 # Merch-Store-DE-Task
-This is an end-to-end data engineering task which includes the use of PostgreSQL database, Apache Airflow, Google Cloud Storage bucket , Google Big Query and Google Looker studio. The aim of this project is to automate the process of data extraction, transformation of data to meet business needs and loading the data to a unified data platform for data analytics and other downstream use cases for the E-commerce store, Merch-store. 
+This is an end-to-end data engineering task for merch store E-commerce platform which is aimed at creating batch processing pipeline for their internal data analytics team to automate the process of data extraction, transformation of data to meet business needs and loading the data to a unified data platform for the team to facilitate data analytics to answer business questios by the stakeholders. 
+
+# Tech Stack 
+PostgreSQL database -- data source
+Apache Airflow  -- orchestration tool
+Google Cloud Storage bucket -- data lake
+Google Big Query -- data warehouse for analytics
+Google Looker studio --- data visualization/ reporting tool 
 
 The medium article below details the steps for the project set up and implementation
 
